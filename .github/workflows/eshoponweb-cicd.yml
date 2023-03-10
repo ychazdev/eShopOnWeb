@@ -9,7 +9,7 @@ env:
   LOCATION: eastus
   TEMPLATE-FILE: .azure/bicep/webapp.bicep
   SUBSCRIPTION-ID: f3d38115-25d1-4534-8c69-4d4b2fc396c1
-  WEBAPP-NAME: az400-webapp-ycha
+  WEBAPP-NAME: az400-ycha
 
 
 jobs:
